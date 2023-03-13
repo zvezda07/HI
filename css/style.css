@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    background-color: rgb(100, 36, 155);
+}
+
+h1 {
+    color: rgb(161, 104, 213);
+    font-size: 8vw;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    text-transform: uppercase;
+    font-family: serif;
+    -webkit-text-stroke-width:5px ;
+    -webkit-text-stroke-color: black;
+}
